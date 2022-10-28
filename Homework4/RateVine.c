@@ -28,8 +28,9 @@ int main()
 			get_kg_rate_conc();
 		if (input == 4)
 			get_unit_conc();
-	}
-	while(input != 5);
+	}while(input != 5);
+
+
 	return 0;
 }
 int get_problem()
@@ -85,7 +86,7 @@ float by_weight(float flowrate,float weight_1,float drug) //calFunction3
 	Result = (flowrate * weight_1) * drug;
 	return Result;
 }
-int get_units_conc() //Function4
+int get_unit_conc() //Function4
 {
 	int rate,units;
         printf("Enter rate in units/hr: ");
