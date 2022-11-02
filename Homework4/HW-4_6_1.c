@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Teerajet Chanpha 6509618184 20
+//Group ID: 6
 
 float revenue(int t);
 float predict(double profit);

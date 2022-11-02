@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 void mergeArray(int size, float firstArray[], float secondArray[], int firstArraySize, int secondArraySize, float *finalArray);
 

@@ -1,5 +1,9 @@
 #include <Stdio.h>
 #include <math.h>
+
+//Teerajet Chanpha 6509618184 20
+//Group ID: 6
+
 int main()
 {
 	float Area = 0;

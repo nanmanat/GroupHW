@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 int isMagic(int size, int arr[size][size]);
 
@@ -112,7 +113,7 @@ int isMagic(int size, int arr[size][size])
     for (int i = 0; i < size; i++)
     {
         left += arr[i][i];
-        right += arr[(size - 1)  - i][(size - 1) - i];
+        right += arr[i][(size - 1) - i];
     }
 
     if (left != constant || right != constant)
