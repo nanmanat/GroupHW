@@ -2,7 +2,8 @@
 #include <string.h>
 #include <math.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 #define RATE_10 7.99;
 #define RATE 1.99;

@@ -2,7 +2,8 @@
 #include <string.h>
 #include <stdbool.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 int search(char COLOR_CODES[][7], char band[]);
 

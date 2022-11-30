@@ -2,7 +2,8 @@
 #include <stdbool.h>
 #include <math.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 void fact_cal(char *answer, int number);
 int cal_digit(int number);

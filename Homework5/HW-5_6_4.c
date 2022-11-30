@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 22
+//Group ID: 6
 
 int main()
 {

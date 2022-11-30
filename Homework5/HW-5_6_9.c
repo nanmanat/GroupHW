@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
-//Nanmanat Varisthanist 6509618200
+//Nanmanat Varisthanist 6509618200 25
+//Teerajet Chanpha 6509618184 20
+//Group ID: 6
 
 typedef struct
 {
