@@ -1,0 +1,13 @@
+Student ID: 609618100, Name: Annet,	Score 50.00 	grade: D
+Student ID: 609618101, Name: Bob,	Score 45.65 	grade: F
+Student ID: 609618102, Name: Dimmy,	Score 52.00 	grade: D
+Student ID: 609618103, Name: Ethan,	Score 80.50 	grade: A
+Student ID: 609618104, Name: Fiw,	Score 78.00 	grade: B
+Student ID: 609618105, Name: Gross,	Score 65.20 	grade: C
+Student ID: 609618106, Name: Ham,	Score 45.00 	grade: F
+Student ID: 609618107, Name: Ink,	Score 70.50 	grade: B
+Student ID: 609618108, Name: Rose,	Score 95.00 	grade: A
+Student ID: 609618109, Name: Kate,	Score 45.00 	grade: F
+Min score ; 0.00
+Max score ; 0.00
+Mean score ; 62.68
