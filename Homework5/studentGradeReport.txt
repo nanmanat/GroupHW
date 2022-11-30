@@ -1,0 +1,13 @@
+Student ID: 6509100001, Name: Ant,	Score 68.50, Grade: C
+Student ID: 6509180002, Name: Bee,	Score 64.25, Grade: C
+Student ID: 6509100003, Name: Cat,	Score 43.99, Grade: F
+Student ID: 6509100004, Name: Cow,	Score 64.56, Grade: C
+Student ID: 6509100005, Name: Mil,	Score 98.50, Grade: A
+Student ID: 6509100006, Name: Arm,	Score 84.34, Grade: A
+Student ID: 6509100007, Name: Aon,	Score 56.68, Grade: D
+Student ID: 6509100008, Name: Saw,	Score 78.26, Grade: B
+Student ID: 6509100009, Name: Man,	Score 75.67, Grade: B
+Student ID: 6509100010, Name: Can,	Score 67.45, Grade: C
+Minimum Score: 43.99
+Maximum Score: 98.50
+Average Score: 6.74
